@@ -1,5 +1,5 @@
 # Haskell-LambdaInterpreter
-Group project with me and Panagiotis Fotopoulos, parser and prettyprint were given and we made the rest..
+Group project with me and Panagiotis Fotopoulos.
 
 Requirements: cabal and parsec
 
