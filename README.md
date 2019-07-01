@@ -1,7 +1,7 @@
 # Haskell-LambdaInterpreter
 Group project with me and Panagiotis Fotopoulos, parser and prettyprint were given and we made the rest..
 
-Must have cabal and parsec to make it run
+Requirements: cabal and parsec
 
 Load file skeleton.hs and run with the appropriate commands
 
